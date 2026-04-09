@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seddiq</h1>
-<h3 align="center">Radioactive, Hazardous and Unsafe Coder</h3>
+<h3 align="center">Data Scientist by day, Radioactive Code Reactor by night</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
-- 🔭 I’m currently working on **My Personal Website**
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **melalaoui@bordeaux-inp.fr**
+- 🔭 I'm currently working on **My Personal Website**
+- 🌱 I'm currently learning **3D Modeling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
