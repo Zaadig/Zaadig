@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seddiq</h1>
-<h3 align="center">Data Scientist by day, Radioactive Code Reactor by night</h3>
+<h3 align="center">Data Scientist by day, An absolute Menace by night</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 - 🔭 I'm currently working on **My Personal Website**
